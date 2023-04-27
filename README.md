@@ -1,9 +1,9 @@
 # Machine Learning Assignment 
 
-##Instructions
+## Instructions
 Please download the IRIS data set introduced in the course, conduct training and testing with the traditional machine learning algorithm introduced in the course, and write a test report to upload.
 
-l A total of 5 algorithms are included, and each test report contains:
+A total of 5 algorithms are included, and each test report contains:
 
 1. Experimental settings and results: Each algorithm selects two parameters, changes their set values, conducts experiments, and records and compares the experimental results. For example, the penalty and solver of Logistic Regression
 
