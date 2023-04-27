@@ -1,0 +1,6 @@
+n_neighbors = 1, weights = 'uniform', accuracy = 0.920
+n_neighbors = 10, weights = 'uniform', accuracy = 0.847
+n_neighbors = 19, weights = 'uniform', accuracy = 0.793
+n_neighbors = 1, weights = 'distance', accuracy = 0.920
+n_neighbors = 10, weights = 'distance', accuracy = 0.927
+n_neighbors = 19, weights = 'distance', accuracy = 0.927

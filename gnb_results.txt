@@ -1,0 +1,6 @@
+var_smoothing = 0.000000001, priors = None, accuracy = 0.780
+var_smoothing = 0.000000100, priors = None, accuracy = 0.780
+var_smoothing = 0.000010000, priors = None, accuracy = 0.780
+var_smoothing = 0.000000001, priors = [0.2, 0.5, 0.3], accuracy = 0.793
+var_smoothing = 0.000000100, priors = [0.2, 0.5, 0.3], accuracy = 0.793
+var_smoothing = 0.000010000, priors = [0.2, 0.5, 0.3], accuracy = 0.793
